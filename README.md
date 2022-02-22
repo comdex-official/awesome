@@ -36,12 +36,14 @@ List of public resources, documents, and tools for Comdex.
   - https://api-comdex.zenchainlabs.io/ - ZenChainLabs
 
 ### Archive Nodes
-- Provided by comdex
-  - 
+  - Provided by comdex
+    - 
 
 You'd want to add the bus bar as a persistent peer. It can accept a vast number of connections, and can be used in a manner analogous to a seed node since it will do PEX with you.  It is not a seed node. 
 
 - Seed nodes
+  ```shell
+  ```
 
 
 ### Documentation / Guides
