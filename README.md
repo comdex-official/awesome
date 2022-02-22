@@ -20,7 +20,7 @@ List of public resources, documents, and tools for Comdex.
 - [BlockNgine](https://blockngine.io/)
 
 ### Validator snapshots & syncing
-- 
+- [Archive](https://github.com/comdex-official/networks/tree/main/mainnet/comdex-1#downloading-archive-snapshots)
 
 ### Publicly available endpoints
 - [Chain Registry](https://github.com/cosmos/chain-registry/blob/master/comdex/)
@@ -43,6 +43,7 @@ You'd want to add the bus bar as a persistent peer. It can accept a vast number 
 
 - Seed nodes
   ```shell
+  bfb1c5177364a82b5b033aef7b1503be897f1c6c@3.110.51.5:26656
   ```
 
 
