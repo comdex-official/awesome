@@ -7,6 +7,7 @@ List of public resources, documents, and tools for Comdex.
 * [Look.Chill](https://look.chillvalidation.com/comdex)
 * [Atomscan](https://atomscan.com/comdex)
 * [ZenChainLabs](https://comdex.zenscan.io/)
+* [thecodes.dev](https://comdex.thecodes.dev/)
 
 ### IBC transfer explorer
 * https://ibcscan.net/
