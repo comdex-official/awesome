@@ -21,6 +21,7 @@ List of public resources, documents, and tools for Comdex.
 
 ### Validator snapshots & syncing
 - [Archive](https://github.com/comdex-official/networks/tree/main/mainnet/comdex-1#downloading-archive-snapshots)
+- [Polkachu - Pruned (Custom)](https://polkachu.com/tendermint_snapshots/comdex)
 
 ### Publicly available endpoints
 - [Chain Registry](https://github.com/cosmos/chain-registry/blob/master/comdex/)
