@@ -8,6 +8,9 @@ List of public resources, documents, and tools for Comdex.
 * [Atomscan](https://atomscan.com/comdex)
 * [ZenChainLabs](https://comdex.zenscan.io/)
 
+### IBC transfer explorer
+* https://ibcscan.net/
+
 ### Analytics, Data, and Visualization
 - [BronBro Comdex Dashboard](https://monitor.bronbro.io/d/comdex-stats/comdex-stats?orgId=2&refresh=5s)
 - [Map of Zones](https://mapofzones.com)
