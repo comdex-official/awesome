@@ -1,6 +1,9 @@
 # Awesome Comdex
 List of public resources, documents, and tools for Comdex. 
 
+### Join comdex-1 as validator
+* [Validator Document](https://github.com/comdex-official/networks/blob/main/mainnet/02-validator-post-gentx.md)
+
 ### Block Explorers
 * [Mintscan](https://www.mintscan.io/comdex/)
 * [Aneka - Vitwit](https://comdex.aneka.io/)
