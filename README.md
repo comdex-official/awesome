@@ -4,7 +4,7 @@ List of public resources, documents, and tools for Comdex.
 ### Join comdex-1 as validator
 * [Validator Document](https://github.com/comdex-official/networks/blob/main/mainnet/02-validator-post-gentx.md)
 
-### Block Explorers
+### Block Explorers MAIN NET
 * [Mintscan](https://www.mintscan.io/comdex/)
 * [Aneka - Vitwit](https://comdex.aneka.io/)
 * [Look.Chill](https://look.chillvalidation.com/comdex)
@@ -59,7 +59,9 @@ You'd want to add the bus bar as a persistent peer. It can accept a vast number 
   ```shell
   bfb1c5177364a82b5b033aef7b1503be897f1c6c@3.110.51.5:26656
   ```
-
+### TESTNET explorer
+ - [BigDipper hosted by comdex](http://comets-test.comdex.one)
+ - [ping.pub by highlander node](https://testnet.explorer.chaintools.tech/comdex%20(comdex-t))
 
 ### Documentation / Guides
 - [Comdex Official Website](https://comdex.one)
