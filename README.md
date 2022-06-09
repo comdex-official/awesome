@@ -73,4 +73,4 @@ You'd want to add the bus bar as a persistent peer. It can accept a vast number 
 - [Setting up a full node for comets-test](https://github.com/comdex-official/networks/blob/main/testnet/comets-test/README.md)
 
 ### Contribution guides
-- [Contribution guides]https://github.com/comdex-official/contribution-docs
+- [Contribution guides](https://github.com/comdex-official/contribution-docs)
