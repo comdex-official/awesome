@@ -35,8 +35,8 @@ List of public resources, documents, and tools for Comdex.
 - [Polkachu - Pruned (Custom)](https://polkachu.com/tendermint_snapshots/comdex)
 - [Crpytocrew - After 0.1.1 upgrade snapshot](https://quicksync.ccvalidators.com/SNAPSHOTS/comdex-1_20220307_pruned.tar.lz4) (Prefer this snapshot if you are new validator joining after 0.1.1)
 - https://comdex.paranorm.pro/
-  ### Testnet
-  - [Vault Staking's snapshot](https://nodesnapshots.s3.amazonaws.com/220603-comdex-testnet.tar.gz)
+  ### Testnet (Taken after v2.0.0 upgrade)
+  - [Vault Staking's snapshot](https://vaultstaking.s3.amazonaws.com/comdex/testnet/220708-comdex-testnet-upgrade.tar.gz)
 
 ### Publicly available endpoints
 - [Chain Registry](https://github.com/cosmos/chain-registry/blob/master/comdex/)
