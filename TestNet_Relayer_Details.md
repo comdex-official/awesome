@@ -1,15 +1,18 @@
 # Relayers Operated on comdex testnet n/ws : CHAIN-ID : meteor-test
 
-meteor-test <> laozi-testnet5 (BAND)
+channel-15 <> channel-66 - meteor-test <> band-laozi-testnet5 (BAND)
 
 
 ----------------------------------------------------------------------------------------------------------------
 
-meteor-test <> osmo-testnet-4
+channel-14 <> channel-433  - meteor-test <> osmo-test-4
 
 
 ----------------------------------------------------------------------------------------------------------------
 
-meteor-test <> cosmos-theta
+channel-16 <> channel-574 - meteor-test <> theta-testnet-001
+
 
 ----------------------------------------------------------------------------------------------------------------
+
+channel-9 <> channel-43 - meteor-test <> axelar-lisbon-testnet-3
