@@ -34,7 +34,7 @@ List of public resources, documents, and tools for Comdex.
 - [Archive](https://github.com/comdex-official/networks/tree/main/mainnet/comdex-1#downloading-archive-snapshots)
 - [Polkachu - Pruned (Custom)](https://polkachu.com/tendermint_snapshots/comdex)
 - [Crpytocrew - After 0.1.1 upgrade snapshot](https://quicksync.ccvalidators.com/SNAPSHOTS/comdex-1_20220307_pruned.tar.lz4) (Prefer this snapshot if you are new validator joining after 0.1.1)
-- https://comdex.paranorm.pro/
+- [Useful validators tools by Paranormal Bros.](https://comdex.paranorm.pro)
   ### Testnet (Taken after v2.0.0 upgrade)
   - [Vault Staking's snapshot](https://vaultstaking.s3.amazonaws.com/comdex/testnet/220708-comdex-testnet-upgrade.tar.gz)
 
@@ -45,7 +45,7 @@ List of public resources, documents, and tools for Comdex.
   - https://api.comdex.audit.one/rpc - audit.one
   - http://comdex.node.vitwit.com:26657 - VitWit
   - https://rpc-comdex.zenchainlabs.io/ - ZenChainLabs
-  - http://cmdx.paranorm.pro:56657 - paranorm.pro
+  - http://cmdx.paranorm.pro/ - Paranormal Bros.
 
   #### REST
   - https://api.comdex.audit.one/rest - audit
