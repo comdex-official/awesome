@@ -15,4 +15,4 @@ channel-17 <> channel-581 - meteor-test <> theta-testnet-001
 
 ----------------------------------------------------------------------------------------------------------------
 
-channel-9 <> channel-43 - meteor-test <> axelar-lisbon-testnet-3
+channel-18 <> channel-62 - meteor-test <> axelar-lisbon-testnet-3
