@@ -35,7 +35,7 @@ List of public resources, documents, and tools for Comdex.
 - [Polkachu - Pruned (Custom)](https://polkachu.com/tendermint_snapshots/comdex)
 - [Crpytocrew - After 0.1.1 upgrade snapshot](https://quicksync.ccvalidators.com/SNAPSHOTS/comdex-1_20220307_pruned.tar.lz4) (Prefer this snapshot if you are new validator joining after 0.1.1)
 - [Useful validators tools by Paranormal Bros.](https://comdex.paranorm.pro)
-  ### Testnet (Taken after latest (v4.2.0) upgrade)
+  ### Testnet (Taken after latest (v4.3.0) upgrade)
   - [Vault Staking's snapshot](https://vaultstaking.s3.amazonaws.com/comdex/testnet/220708-comdex-testnet-upgrade.tar.gz)
   - [Comdex default snapshot(includes /wasm)](http://msnap.comdex.one/meteor/data.tar.lz4) 
 
