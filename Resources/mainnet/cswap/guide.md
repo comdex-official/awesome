@@ -27,7 +27,7 @@ eg. `pool 1` will be completely different on `app 1` compared to `app 2`
 Verify if the assets/token used for pair & pool creation are already whitelisted in the asset module by the following command.
 
 ```sh
-$ comdex q assetv1 assets
+$ comdex q asset assets
 ``` 
 If the results from the above query contain the asset/token which is required you can skip the part below and hop on step 2 of this guide.
     </li>
@@ -53,7 +53,7 @@ For example, if our desired trading pair is CMDX/CMST, and the spot rate is 1 CM
 
 To check existing pairs use the following command -
 ```sh
-$ comdex q liquidityV1 comdex query liquidityV1 pairs [app-id]
+$ comdex q liquidity pairs [app-id]
 ```
 
 The Liquidity pair can be created in two different ways, 
@@ -64,7 +64,7 @@ The Liquidity pair can be created in two different ways,
 A certain amount of fee needs to be paid for creating pair. The fee paid is non-refundable. A pair can be launched instantly with this method. (Check liquidity params for fees charged)
 
 ```sh
-$ comdex tx liquidityV1 create-pair [app-id] [base-coin-denom] [quote-coin-denom] -–from wallet –-chain-id comdex-1 -–node https://comdex-rpc:443
+$ comdex tx liquidity create-pair [app-id] [base-coin-denom] [quote-coin-denom] -–from wallet –-chain-id comdex-1 -–node https://comdex-rpc:443
 ```
 
 </li>
@@ -105,12 +105,12 @@ eg.
 
 The following command is used to create a liquidity pool -
 ```sh
-$ comdex tx liquidityV1 create-pool [app-id] [pair-id] [deposit-coins] -–from wallet -–chain-id comdex-1 -–node https://comdex-rpc:443
+$ comdex tx liquidity create-pool [app-id] [pair-id] [deposit-coins] -–from wallet -–chain-id comdex-1 -–node https://comdex-rpc:443
 ```
 
 Once done you can query for the pool using the following command
 ```sh
-$ comdex query liquidityV1 pools [app-id]
+$ comdex query liquidity pools [app-id]
 ```
 The last object from the result of the above query will show your pool details along with `pool_id`. 
 
@@ -137,13 +137,13 @@ You can find the detailed explanation of the farming-rewards mechanism [here](ht
 
 The following command can be used to create the incentive for the specific pool of the given app - 
 ```sh
-$ comdex tx rewardsV1 create-gauge [gauge-type-id] [trigger-duration] [deposit-amount] [total-triggers] --app-id=[app-id] --pool-id=[pool-id] --start-time=[epoch-time] --from wallet --chain-id comdex-1 --node https://comdex-rpc.one:443
+$ comdex tx rewards create-gauge [gauge-type-id] [trigger-duration] [deposit-amount] [total-triggers] --app-id=[app-id] --pool-id=[pool-id] --start-time=[epoch-time] --from wallet --chain-id comdex-1 --node https://comdex-rpc.one:443
 ```
 
 eg. 
 
 ```sh
-comdex tx rewardsV1 create-gauge 1 24h 100000000000ucmdx 60 --app-id=1 --pool-id=5 --start-time=1668953133 --from cooluser --chain-id comdex-1 --node https://comdex-rpc.one:443
+comdex tx rewards create-gauge 1 24h 100000000000ucmdx 60 --app-id=1 --pool-id=5 --start-time=1668953133 --from cooluser --chain-id comdex-1 --node https://comdex-rpc.one:443
 ```
 `cooluser` wants to incentivize the `pool 5` in `app 1`.<br>
 
@@ -205,9 +205,9 @@ Epoch time, The time at which the incentive will be marked as active and will be
 
 Once the gauge is created it can be checked via the following command -
 ```sh
-$ comdex q rewardsV1 gauges
+$ comdex q rewards gauges
 ``` 
 After `start-time` has been passed it can also be checked using the following command, this won't show the created gauge until the star-time has been passed - 
 ```sh
-$ comdex query liquidityV1 pool-incentives [app-id]
+$ comdex query liquidity pool-incentives [app-id]
 ```
