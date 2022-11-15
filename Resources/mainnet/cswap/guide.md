@@ -85,7 +85,7 @@ What next?
 Once the liquidity pair is created it is ready to be used in multiple ways- 
 <ol>
 <li>
-Asset/token can be traded (even without pool) via this pair and features like <b>Limit Order</b> and <b>Market Orders</b> can be used. 
+Asset/token can be traded (even without pool) via this pair and features like <b>Limit Order</b> and <b>Market Orders</b> can be used. This feature is not yet integrated on cSwap, and can only be used via CLI. 
 </li>
 <li>
 This pair can be used to create liquidity pools. 
