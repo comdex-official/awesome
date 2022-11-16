@@ -35,8 +35,8 @@ If the results from the above query contain the asset/token which is required yo
 
 ### Asset whitelisting in the asset module
 
-(link for a guide to add asset in asset module)
-    </l1> * [Whitelisting Asset](/Resources/mainnet/base.md)
+Follow this guide for the same - [Whitelisting Asset](/Resources/mainnet/base.md)
+    </l1>
 </ol>
 </li>
 
