@@ -42,3 +42,8 @@ Operated by    |       Operator address
 Operated by    |       Operator address
 
 ----------------------------------------------------------------------------------------------------------------
+
+# comdex-1 <> laozi-mainnet (Band)
+**channel-43 <> channel-96** - comdex-1 <> laozi-mainnet
+
+Operated by    |       Operator address 
