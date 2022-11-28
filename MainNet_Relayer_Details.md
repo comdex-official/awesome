@@ -6,8 +6,14 @@
 
 Operated by
 
-1. Zenscape
-2. 
+1. Cros-nest
+2. Mandragora
+3. CryptoCrew
+4. AutoStake
+5. Lavender.Five Nodes
+6. Tedcrypto.io
+7. Golden Ratio Staking
+8. Zenscape
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -17,7 +23,7 @@ Operated by
 Operated by
 
 1. Zenscape
-2. 
+2. CryptoCrew
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -27,8 +33,9 @@ Operated by
 
 Operated by
 
-1. Zenscape
-2. 
+1. CryptoCrew
+2. Mandragora
+3. Zenscape
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -38,14 +45,18 @@ Operated by
 Operated by
 
 1. Zenscape
-2. 
+2. Mandragora
 
 ----------------------------------------------------------------------------------------------------------------
 
 # comdex-1 <> juno-1
 **channel-18 <> channel-86** - comdex-1 <> juno-1
 
-Operated by     |       Operator address 
+Operated by
+
+1. Cros-nest
+2. CryptoCrew
+3. EZStaking.io Relayer
 
 
 ----------------------------------------------------------------------------------------------------------------
@@ -56,7 +67,7 @@ Operated by     |       Operator address
 Operated by
 
 1. Zenscape
-2. 
+2. CryptoCrew
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -66,6 +77,5 @@ Operated by
 Operated by
 
 1. Zenscape
-2. 
 
 
