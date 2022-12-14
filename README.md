@@ -36,7 +36,7 @@ List of public resources, documents, and tools for Comdex.
 - [Crpytocrew - After 0.1.1 upgrade snapshot](https://quicksync.ccvalidators.com/SNAPSHOTS/comdex-1_20220307_pruned.tar.lz4) (Prefer this snapshot if you are new validator joining after 0.1.1)
 
 ### Publicly available endpoints
-- [Chain Registry](https://github.com/cosmos/chain-registry/blob/master/comdex/)
+- [Chain Registry](https://github.com/cosmos/chain-registry/blob/master/comdex/chain.json)
 
 ### Archive Nodes
   - Provided by comdex
