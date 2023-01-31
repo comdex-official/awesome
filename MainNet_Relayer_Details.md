@@ -83,4 +83,12 @@ Operated by
 
 1. Zenscape
 
+----------------------------------------------------------------------------------------------------------------
+
+# comdex-1 <> gravity-bridge-3 (Gravity Bridge)
+**channel-112 <> channel-56** - comdex-1 <> gravity-bridge-
+
+Operated by
+
+1. CryptoCrew
 
