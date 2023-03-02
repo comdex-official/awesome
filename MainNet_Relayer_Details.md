@@ -86,9 +86,12 @@ Operated by
 ----------------------------------------------------------------------------------------------------------------
 
 # comdex-1 <> gravity-bridge-3 (Gravity Bridge)
-**channel-112 <> channel-56** - comdex-1 <> gravity-bridge-
+**channel-23 <> channel-21** - comdex-1 <> gravity-bridge-3
 
 Operated by
 
 1. CryptoCrew
+
+
+
 
