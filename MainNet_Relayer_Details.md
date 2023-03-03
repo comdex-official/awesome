@@ -91,6 +91,67 @@ Operated by
 Operated by
 
 1. CryptoCrew
+2. Zenscape
+
+# comdex-1 <> core-1 (Persistence)
+**channel-57 <> channel-71** - comdex-1 <> core-1
+
+Operated by
+
+1. Architect Nodes
+2. Paranormal Bros
+
+# comdex-1 <> akash-1 (Akash)
+**channel-52 <> channel-55** - comdex-1 <> akashnet-2
+
+Operated by
+
+1. Zenscape
+
+# comdex-1 <> evmos_9001-2 (Evmos)
+**channel-35 <> channel-26** - comdex-1 <> evmos_9001-2
+
+Operated by
+
+1. Architect Nodes
+
+# comdex-1 <> phoenix-1 (Luna)
+**channel-51 <> channel-39** - comdex-1 <> phoenix-1
+
+Operated by
+
+1. Zenscape
+
+# comdex-1 <> crescent-1 (crescent)
+**channel-49 <> channel-26** - comdex-1 <> crescent-1
+
+Operated by
+
+1. Zenscape
+2. B-Harvest
+
+# comdex-1 <> stride-1 (stride)
+**channel-45 <> channel-49** - comdex-1 <> stride-1
+
+Operated by
+
+1. Cros Nest
+2. Zenscape
+3. Architect Nodes
+
+# comdex-1 <> mantle-1 (asset mantle)
+**channel-59 <> channel-17** - comdex-1 <> mantle-1
+
+Operated by
+
+1. Cros Nest
+
+# comdex-1 <> canto_7700-1 (Canto)
+**channel-58 <> channel-7** - comdex-1 <> canto_7700-1
+
+Operated by
+
+1. Zenscape
 
 
 
