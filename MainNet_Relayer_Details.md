@@ -73,6 +73,7 @@ Operated by
 1. Zenscape
 2. CryptoCrew
 3. ChainTools
+4. Cros-nest
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -92,6 +93,7 @@ Operated by
 
 1. CryptoCrew
 2. Zenscape
+3. Cros-nest
 
 # comdex-1 <> core-1 (Persistence)
 **channel-57 <> channel-71** - comdex-1 <> core-1
@@ -100,6 +102,7 @@ Operated by
 
 1. Architect Nodes
 2. Paranormal Bros
+3. Cros-nest
 
 # comdex-1 <> akash-1 (Akash)
 **channel-52 <> channel-55** - comdex-1 <> akashnet-2
@@ -122,6 +125,7 @@ Operated by
 Operated by
 
 1. Zenscape
+2. Cros-nest
 
 # comdex-1 <> crescent-1 (crescent)
 **channel-49 <> channel-26** - comdex-1 <> crescent-1
@@ -136,7 +140,7 @@ Operated by
 
 Operated by
 
-1. Cros Nest
+1. Cros-nest
 2. Zenscape
 3. Architect Nodes
 4. Mandragora
@@ -146,7 +150,7 @@ Operated by
 
 Operated by
 
-1. Cros Nest
+1. Cros-nest
 
 # comdex-1 <> canto_7700-1 (Canto)
 **channel-58 <> channel-7** - comdex-1 <> canto_7700-1
@@ -154,7 +158,7 @@ Operated by
 Operated by
 
 1. Zenscape
-
+2. Cros-nest
 
 
 
