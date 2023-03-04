@@ -114,6 +114,7 @@ Operated by
 Operated by
 
 1. Architect Nodes
+2. Mandragora
 
 # comdex-1 <> phoenix-1 (Luna)
 **channel-51 <> channel-39** - comdex-1 <> phoenix-1
@@ -138,6 +139,7 @@ Operated by
 1. Cros Nest
 2. Zenscape
 3. Architect Nodes
+4. Mandragora
 
 # comdex-1 <> mantle-1 (asset mantle)
 **channel-59 <> channel-17** - comdex-1 <> mantle-1
