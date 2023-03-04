@@ -21,6 +21,7 @@ List of public resources, documents, and tools for Comdex.
 
 ### Analytics, Data, and Visualization
 - [BronBro Comdex Dashboard](https://monitor.bronbro.io/d/comdex-stats/comdex-stats?orgId=2&refresh=5s)
+- [Cros-nest Comdex Dashboard](https://chain-monitor.cros-nest.com/d/Cros-nest/block-chains?var-chain_id=comdex-1)
 - [Map of Zones](https://mapofzones.com)
 
 
