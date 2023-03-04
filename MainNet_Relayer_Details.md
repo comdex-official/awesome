@@ -160,5 +160,11 @@ Operated by
 1. Zenscape
 2. Cros-nest
 
+# comdex-1 <> chihuahua-1 (Chihuahua)
+**channel-61 <> channel-37** - comdex-1 <> chihuahua-1
+
+Operated by
+
+1. Cros-nest
 
 
