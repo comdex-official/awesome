@@ -53,7 +53,7 @@ Operated by
 ----------------------------------------------------------------------------------------------------------------
 
 # comdex-1 <> juno-1
-**channel-18 <> channel-86** - comdex-1 <> juno-1
+**channel-18 <> channel-36** - comdex-1 <> juno-1
 
 Operated by
 
