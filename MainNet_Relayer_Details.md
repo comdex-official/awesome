@@ -14,6 +14,7 @@ Operated by
 6. Tedcrypto.io
 7. Golden Ratio Staking
 8. Zenscape
+9. Polkachu
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -38,6 +39,7 @@ Operated by
 3. Zenscape
 4. ChainTools
 5. Cros-nest
+6. Polkachu
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -49,6 +51,7 @@ Operated by
 1. Zenscape
 2. Mandragora
 3. Cros-nest
+4. Polkachu
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -61,6 +64,7 @@ Operated by
 2. CryptoCrew
 3. EZStaking.io Relayer
 4. ChainTools
+5. Polkachu
 
 
 ----------------------------------------------------------------------------------------------------------------
@@ -74,6 +78,7 @@ Operated by
 2. CryptoCrew
 3. ChainTools
 4. Cros-nest
+5. Polkachu
 
 ----------------------------------------------------------------------------------------------------------------
 
@@ -94,6 +99,7 @@ Operated by
 1. CryptoCrew
 2. Zenscape
 3. Cros-nest
+4. Polkachu
 
 # comdex-1 <> core-1 (Persistence)
 **channel-57 <> channel-71** - comdex-1 <> core-1
@@ -103,6 +109,7 @@ Operated by
 1. Architect Nodes
 2. Paranormal Bros
 3. Cros-nest
+4. Polkachu
 
 # comdex-1 <> akash-1 (Akash)
 **channel-52 <> channel-55** - comdex-1 <> akashnet-2
@@ -110,6 +117,7 @@ Operated by
 Operated by
 
 1. Zenscape
+2. Polkachu
 
 # comdex-1 <> evmos_9001-2 (Evmos)
 **channel-35 <> channel-26** - comdex-1 <> evmos_9001-2
@@ -118,6 +126,7 @@ Operated by
 
 1. Architect Nodes
 2. Mandragora
+3. Polkachu
 
 # comdex-1 <> phoenix-1 (Luna)
 **channel-51 <> channel-39** - comdex-1 <> phoenix-1
@@ -166,5 +175,15 @@ Operated by
 Operated by
 
 1. Cros-nest
+2. Polkachu
+3. Stakelab
+
+
+
+
+
+
+
+
 
 
