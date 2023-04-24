@@ -178,6 +178,13 @@ Operated by
 2. Polkachu
 3. Stakelab
 
+# comdex-1 <> secret-4 (Secret)
+**channel-65 <> channel-63** - comdex-1 <> secret-4
+
+Operated by
+
+1. Lavender.Five Nodes
+
 
 
 
