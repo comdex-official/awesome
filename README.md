@@ -4,8 +4,8 @@ List of public resources, documents, and tools for Comdex.
 ### Join comdex-1 as validator
 * [Validator Document](https://github.com/comdex-official/networks/blob/main/mainnet/02-validator-post-gentx.md)
 
-### Join meteor-test (testnet) as validator
-* [Validator Document](https://github.com/comdex-official/networks/tree/main/testnet/meteor-test)
+### Join comdex-test3 (testnet) as validator
+* [Validator Document](https://github.com/comdex-official/networks/tree/main/testnet/testnet-3)
 
 ### Block Explorers MAIN NET
 * [Mintscan](https://www.mintscan.io/comdex/)
@@ -46,13 +46,13 @@ List of public resources, documents, and tools for Comdex.
 You'd want to add the bus bar as a persistent peer. It can accept a vast number of connections, and can be used in a manner analogous to a seed node since it will do PEX with you.  It is not a seed node. 
 
 ### TESTNET explorer
- - [ping.pub hosted by comdex](https://test2-explorer.comdex.one)
+ - [ping.pub hosted by comdex](https://test3-explorer.comdex.one)
 
 ### Documentation / Guides
 - [Comdex Official Website](https://comdex.one)
 - [Comdex Official Documentation](https://docs.comdex.one)
 - [Setting up a full node for comdex-1](https://github.com/comdex-official/networks/blob/main/mainnet/README.md)
-- [Setting up a full node for comdex-test2](https://github.com/comdex-official/networks/tree/main/testnet/testnet-2/README.md)
+- [Setting up a full node for comdex-test3](https://github.com/comdex-official/networks/tree/main/testnet/testnet-3/README.md)
 
 ### Contribution guides
 - [Contribution guides](https://github.com/comdex-official/contribution-docs)
