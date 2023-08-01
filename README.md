@@ -15,6 +15,7 @@ List of public resources, documents, and tools for Comdex.
 * [ZenChainLabs](https://comdex.zenscan.io/)
 * [ping.pub](https://ping.pub/comdex/)
 * [thecodes.dev](https://comdex.thecodes.dev/)
+* [Stakeflow](https://stakeflow.io/comdex)
 
 ### IBC transfer explorer
 * https://ibcscan.net/
@@ -47,6 +48,7 @@ You'd want to add the bus bar as a persistent peer. It can accept a vast number 
 
 ### TESTNET explorer
  - [ping.pub hosted by comdex](https://test3-explorer.comdex.one)
+ - [Stakeflow](https://stakeflow.io/comdex-testnet/)
 
 ### Documentation / Guides
 - [Comdex Official Website](https://comdex.one)
